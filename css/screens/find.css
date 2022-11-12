@@ -7,7 +7,7 @@
 
 .recommended-friends__title {
   font-size: 14px;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgb(109, 66, 196);
 }
 
 .recommended-friends span {
@@ -23,6 +23,7 @@
   justify-content: space-between;
   opacity: 0.8;
   margin-bottom: 25px;
+  color: rgb(109, 66, 196);
 }
 
 .open-chat__header span {
@@ -84,7 +85,7 @@
   border-radius: 10px;
 }
 .open-post__heart-count {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgb(109, 66, 196);
   color: white;
   padding: 5px;
   border-radius: 20px;
