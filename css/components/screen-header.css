@@ -4,6 +4,7 @@
   align-items: center;
   padding: var(--horizontal-space);
   margin-bottom: 15px;
+  color: rgb(109, 66, 196);
 }
 
 .screen-header__title {
