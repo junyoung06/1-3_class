@@ -1,6 +1,6 @@
 .settings__setting {
   padding: 20px 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgb(182, 156, 240);
   font-size: 20px;
   display: flex;
   align-items: center;
@@ -11,10 +11,12 @@
   opacity: 0.8;
   margin-right: 20px;
   font-size: 22px;
+  color: rgb(109, 66, 196);
 }
 
 .settings__setting-column:last-child {
   opacity: 0.5;
+  color: rgb(182, 156, 240);
 }
 
 .temple-box {

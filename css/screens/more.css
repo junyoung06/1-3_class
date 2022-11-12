@@ -10,6 +10,7 @@
 
 .more-suggestions__title {
   margin-bottom: 30px;
+  color: rgb(109, 66, 196);
 }
 
 .more-suggestions__icons {
@@ -26,7 +27,7 @@
 .more-suggestions__icon-image {
   width: 60px;
   height: 60px;
-  background-color: gray;
+  background-color: rgb(109, 66, 196);
   border-radius: 10px;
   display: flex;
   justify-content: center;
