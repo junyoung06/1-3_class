@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Tiro+Gurmukhi:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poor+Story&display=swap");
 
 @import "reset.css";
 @import "variables.css";
@@ -24,7 +25,7 @@
 
 body {
   color: #2e363e;
-  font-family: "Tiro Gurmukhi", "굴림체", serif;
+  font-family: "Poor Story", "굴림체", cursive;
 }
 
 .main-screen {
